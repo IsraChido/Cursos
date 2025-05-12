@@ -1,2 +1,5 @@
 node_modules/
 outputs/
+dist/
+custom-outputs/
+coverage/
